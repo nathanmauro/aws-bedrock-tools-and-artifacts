@@ -1,0 +1,18 @@
+{
+  "region": "us-east-1",
+  "Auth": {
+    "Cognito": {
+      "userPoolClientId": "lsqrnp6gqnsui44po1gf9hvgv",
+      "userPoolId": "us-east-1_4fOAnUOmZ",
+      "identityPoolId": "us-east-1:15fe03ac-5219-46f6-b411-c6cda44a1669"
+    }
+  },
+  "API": {
+    "REST": {
+      "RestApi": { "endpoint": "https://zngdq4rg50.execute-api.us-east-1.amazonaws.com/api/v1" }
+    }
+  },
+  "config": {
+    "websocket_endpoint": "wss://dkdcnt2ex6qmx.cloudfront.net/socket"
+  }
+}
